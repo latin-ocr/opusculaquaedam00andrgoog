@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculaquaedam00andrgoog/opusculaquaedam00andrgoog_0132.png"; bbox 0 0 2970 4914; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 1532 1176 1698">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 1532 1176 1698">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 1532 1176 1698; baseline -0.008 -16"><span class='ocrx_word' id='word_1_1' title='bbox 166 1532 168 1577; x_wconf 82' lang='lat'><strong>²</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 314 1573 979 1698; x_wconf 78' lang='lat' dir='ltr'><strong>DETERMINATIO,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1029 1573 1176 1675; x_wconf 82' lang='lat' dir='ltr'><strong>HA·-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1869 1101 1951">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 383 1869 1101 1951">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1869 1101 1951; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 383 1874 518 1950; x_wconf 89' lang='lat' dir='ltr'><strong>BITA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 551 1873 615 1951; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 647 1871 894 1950; x_wconf 91' lang='lat' dir='ltr'>PVBLICA</span> <span class='ocrx_word' id='word_1_7' title='bbox 924 1869 1101 1946; x_wconf 84' lang='lat' dir='ltr'><strong>SCHO-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 493 2128 986 2194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 493 2128 986 2194">
+     <span class='ocr_line' id='line_1_3' title="bbox 493 2128 986 2194; baseline -0.006 0"><span class='ocrx_word' id='word_1_8' title='bbox 493 2130 563 2194; x_wconf 85' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 601 2128 986 2194; x_wconf 86' lang='lat' dir='ltr'><strong>THEOLOGICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 523 4026 958 4130">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 523 4026 958 4130">
+     <span class='ocr_line' id='line_1_4' title="bbox 523 4026 958 4130; baseline -0.007 -25"><span class='ocrx_word' id='word_1_10' title='bbox 523 4042 553 4104; x_wconf 82' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 571 4041 710 4104; x_wconf 68' lang='lat' dir='ltr'><em>Andam</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 724 4038 818 4102; x_wconf 77' lang='lat' dir='ltr'><em>Hebb.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 839 4026 958 4130; x_wconf 83' lang='lat'>1629.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1490 4914">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1490 4914">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1490 4914; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1490 4914; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
